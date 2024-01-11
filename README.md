@@ -33,5 +33,5 @@
 
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KreativKrish&theme=dark" alt="KreativKrish" /></p>
-  </div>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KreativKrish&" alt="KreativKrish" /></p>
+</div>
