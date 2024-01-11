@@ -31,7 +31,7 @@
   </tr>
 </table>
 
-<div align="center" >
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KreativKrish&theme=dark" alt="KreativKrish" /></p>
 
-</div>
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KreativKrish&theme=dark" alt="KreativKrish" /></p>
+  </div>
