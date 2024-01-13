@@ -31,7 +31,11 @@
   </tr>
 </table>
 
-
+<!--
 <div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KreativKrish&" alt="KreativKrish" /></p>
 </div>
+-->
+
+### My Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KreativKrishG&count_private=true&show_icons=true&theme=dark)](https://github.com/KreativKrish)
