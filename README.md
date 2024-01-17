@@ -1,6 +1,6 @@
 ![MasterHead](https://le.ac.uk/-/media/uol/images/course-pages/cls-2020-heros/bioinformatics-banner.jpg?cx=0.44&cy=0.49&cw=1400&ch=700&hash=C5B8F0A9E79C54BFE43050E2BE056AFE)
 <h1 align="center">Hi 👋, I'm Krishna Dixit</h1>
-<h3 align="center">A diligent Computational Biologist and Frontend Developer.</h3>
+<h3 align="center">A diligent Computational Biologist and a Frontend Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://sasidharan-portfolio.netlify.app/images/skatter-programmer_still_2x.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kreativkrish&label=Profile%20views&color=0e75b6&style=flat" alt="kreativkrish" /> </p>
